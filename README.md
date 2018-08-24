@@ -1,4 +1,4 @@
-# VisWizSDK
+# VisWiz.io PHP SDK
 
 The SDK allows you to query and create new projects, builds or images within the VisWiz service.
 
